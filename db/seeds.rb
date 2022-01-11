@@ -22,7 +22,6 @@ Plant.create!([
     price: 12.11
   },
   {
-    id: 5,
     name: 'Jade',
     image: './images/jade.jpg',
     price: 10.37
